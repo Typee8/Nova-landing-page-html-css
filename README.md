@@ -1,5 +1,5 @@
-![Nova landing page](./README-assets/main-page.png)
-# Nova landing page - html/css
+[![Nova landing page](./README-assets/main-page.png)](https://typee8.github.io/Nova-landing-page-html-css/)
+# [Nova landing page - html/css](https://typee8.github.io/Nova-landing-page-html-css/)
 The landing page is a recreation of [Webscope's](https://themewagon.com/author/webscopeapp/) free template: [Nova](https://themewagon.com/themes/project-app-showasing-onepage-bootstrap-template-free-nova/)
 
 This is **the first** website project and the conclusion of **2nd chapter** (there's **20**) of [devmentor.pl](https://devmentor.pl/mentoring-javascript) mentoring program. It's written in **html** and **css**. 
