@@ -9,10 +9,10 @@ Works only on **Desktop**.
 ---
 
 ## Content:
-[1) Versatile BEM naming.](#1-versatile-bem-naming)
-[2) Border-radius hides pictures.](#2-border-radius-hides-pictures)
-[3) Padding of the parent or margin of the children?](#3-padding-of-the-parent-or-margin-of-the-children)
-[4) Variable fonts](#4-variable-fonts)
+[1) Versatile BEM naming.](#1-versatile-bem-naming)<br>
+[2) Border-radius hides pictures.](#2-border-radius-hides-pictures)<br>
+[3) Padding of the parent or margin of the children?](#3-padding-of-the-parent-or-margin-of-the-children)<br>
+[4) Variable fonts](#4-variable-fonts)<br>
 
 ---
 
